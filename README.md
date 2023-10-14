@@ -3,7 +3,7 @@
 Authors: Sebastian Montoya, Valentina Restrepo
 Date: June 2022
 
-![FPGA Arty7 Stopwatch](crono.JPEG)
+![FPGA Arty7 Stopwatch](crono.jpeg)
 
 ## Introduction
 
